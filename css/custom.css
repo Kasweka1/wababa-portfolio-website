@@ -6,3 +6,9 @@
     );
     opacity: 0.8 !important; /* ensure override */
 }
+
+.text-logo {
+    font-size: 3.1rem;
+    color: #ffffff;
+    font-family: 'Times New Roman', Times, serif;
+}
